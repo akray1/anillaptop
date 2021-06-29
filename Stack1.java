@@ -3,6 +3,7 @@ package com.anil.collection;
 import java.util.Stack;
 
 public class Stack1 {
+int i=0;
 public static void main(String[] args) {
 	Stack st=new Stack();
 	st.push("a");
